@@ -1,2 +1,2 @@
-# ML2
+# ML
 Showcasing Python's machine learning capabilities
